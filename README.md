@@ -12,10 +12,6 @@ I am a passionate software engineer specializing in cloud computing, Web3 techno
 - **Verdancy**: A decentralized on-chain voting platform for Web3 projects. It allows communities to create transparent, secure polls for decision-making. Built with [React](https://reactjs.org/), [Prisma](https://www.prisma.io/), and Web3 integrations.  
   Website: [verdancy.cryptoutils.xyz](https://verdancy.cryptoutils.xyz)
 
-### 🏢 Work Experience
-- **Software Engineer - L2 at Workspot, Inc.(July 2022-Present)**  
-  Currently contributing to the development of cloud-based desktop and security solutions. Gained experience working with Java, PostgreSQL, Redis, GCP, WebSockets, and more. Played a key role in several high-impact projects, improving cloud infrastructure and automating processes.
-
 ### 🛠️ Technologies & Tools
 - **Languages**:  
   ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=java&logoColor=white)
@@ -41,16 +37,7 @@ I am a passionate software engineer specializing in cloud computing, Web3 techno
   ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=flat-square&logo=postgresql&logoColor=white)
   ![Redis](https://img.shields.io/badge/Redis-%23DC382D.svg?style=flat-square&logo=redis&logoColor=white)
 
-### 🏆 Achievements
-- **Quarterly Award Winner**: Best contribution at Workspot, Inc. for Q2 2023 and Q1 2024.
-- **Certified DeFi Expert** by Blockchain Council.
-- **2nd Place** in JU-Alcheringa Coding Competition (2019).
-- **Scholarship Holder** under the National Program of Fellowship in Basic Sciences (KVPY).
-- National Top 1% in National Standard Examinations (Physics, Chemistry, Astronomy).
-
 ### 📈 GitHub Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=kinghanzala&show_icons=true&theme=radical)
 
 ---
-
-Feel free to connect with me via [LinkedIn](https://www.linkedin.com/in/mdhanzalasabir/) or check out my [LeetCode](https://leetcode.com/u/kingertugrul/) profile to see more of my problem-solving skills.
