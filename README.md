@@ -9,6 +9,8 @@
 I am a passionate software engineer specializing in cloud computing, Web3 technologies, and decentralized systems. I enjoy solving complex problems and have experience with both backend and frontend development. 
 
 ### 🌱 Currently Working On
+- **Solpe**: Merchant payments app built on Solana. Built with Next.js.  
+  Website: [solpe.cryptoutils.xyz](https://solpe.cryptoutils.xyz)
 - **Verdancy**: A decentralized on-chain voting platform for Web3 projects. It allows communities to create transparent, secure polls for decision-making. Built with [React](https://reactjs.org/), [Prisma](https://www.prisma.io/), and Web3 integrations.  
   Website: [verdancy.cryptoutils.xyz](https://verdancy.cryptoutils.xyz)
 
