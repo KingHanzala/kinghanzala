@@ -1,8 +1,6 @@
 # Hi, I'm Md Hanzala Sabir! 👋
 
 ![Profile views](https://komarev.com/ghpvc/?username=kinghanzala&color=blue) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/mdhanzalasabir/)
-[![Leetcode](https://img.shields.io/badge/Leetcode-orange?style=flat-square&logo=leetcode)](https://leetcode.com/u/kingertugrul/)
 [![Email](https://img.shields.io/badge/Email-red?style=flat-square&logo=gmail)](mailto:hanzala.sabir@gmail.com)
 
 ### 👨‍💻 About Me
